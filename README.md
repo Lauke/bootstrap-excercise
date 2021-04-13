@@ -1,2 +1,2 @@
-# bootstrap-excercise
+# bootstrap-exercise
 Exercise on bootstrap
